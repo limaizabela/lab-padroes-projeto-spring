@@ -1,7 +1,8 @@
 package one.digitalinnovation.gof.model;
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
+import org.springframework.data.annotation.Id;
+
+import jakarta.persistence.Entity;
 
 /**
  * Os atributos desse modelo foram gerados automaticamente pelo site
